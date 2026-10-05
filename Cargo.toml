@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Yongjin Park <ypp@stat.ubc.ca>"]
 edition = "2021"
 license = "MIT"
+repository = "https://github.com/causalpathlab/sparse-bayes"
 description = "Bayesian sparse regression: SGVB variational families (SuSiE, spike-and-slab, multilevel SuSiE) and an elliptical-slice MCMC engine"
 
 [features]
